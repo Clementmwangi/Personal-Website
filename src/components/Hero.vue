@@ -17,9 +17,10 @@
                 </div>
                 <p class="text-gray-300 pt-6 text-center lg:text-left mx-auto max-w-xl text-lg
                 leading-relaxed">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi, inventore 
-                    ipsum amet molestiae temporibus, eum neque reprehenderit et necessitatibus ducimus
-                     suscipit ipsam iusto minima esse adipisci voluptatem natus odit aspernatur?
+                   I'm a full-stack developer passionate about building intuitive, responsive web 
+                   applications that solve real-world problems. As a third-year Computer Science student 
+                   at Cooperative University of Kenya, I combine academic knowledge with practical 
+                   experience in modern web development and IT infrastructure management.
                 </p>
                 <div class="flex items-center gap-4 pt-8 flex-col sm:flex-row sm:w-max sm:max-auto 
                 lg:mx-0" data-aos="fade-up" data-aos-delay="200">
@@ -68,7 +69,7 @@
                     p-4 backdrop-blur-sm border border-blue-500/30 -translate-y-6"
                     data-aos="zoom-in" data-aos-delay="500">
                        <div class="rounded-xl overflow-hidden ">
-                        <img src="../../public/dev.jpg" alt="Developer"
+                        <img src="../../public/clemz.png" alt="Developer"
                         loading="lazy" class="w-[500px] h-[500px] object-contain
                         -translate-y-8">
                        </div>

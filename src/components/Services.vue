@@ -10,8 +10,9 @@
                     </h2>
                     <p class="text-blue-200 text-lg max-w-2xl mx-auto"
                     data-aos="fade-up" data-aos-delay="100">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio 
-                        aspernatur iusto, voluptatum molestias nesciunt sapiente non esse recusandae
+                       I specialize in full-stack web development, UI design, and Active Directory 
+                       management, delivering complete digital solutions that combine elegant 
+                       interfaces, robust functionality, and reliable IT infrastructure.
                     </p>
                 </div>
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -77,19 +78,19 @@ import { ref } from 'vue';
             id: 1,
             icon: CodeBracketIcon,
             name: 'Web Development',
-            desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio aspernatur iusto, voluptatum molestias nesciunt sapiente non esse recusandae'
+            desc: 'I specialize in full-stack web development, creating responsive applications from frontend interfaces to backend logic. I build with Vue.js, PHP, Tailwind CSS, and SQL, focusing on clean code, user-centric design, and scalable solutions that deliver real value to users and businesses alike.'
         },
         {
             id: 2,
             icon: ComputerDesktopIcon,
             name: 'Active Directory',
-            desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio aspernatur iusto, voluptatum molestias nesciunt sapiente non esse recusandae'
+            desc: 'I manage Active Directory environments with expertise in user administration, group policies, domain configuration, and security protocols. I ensure efficient user management, maintain organizational IT security standards, and implement practical solutions that support reliable institutional operations.'
         },
         {
             id: 3,
             icon: PaintBrushIcon,
             name: 'UI Design',
-            desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio aspernatur iusto, voluptatum molestias nesciunt sapiente non esse recusandae'
+            desc: 'I design clean, user-centered interfaces that balance aesthetic appeal with functional usability. Using Tailwind CSS and modern design principles, I create responsive layouts that work beautifully across all devices, prioritizing accessibility and intuitive navigation.'
         }
     ])
 </script>

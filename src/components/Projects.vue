@@ -106,27 +106,31 @@ const projects = ref([
         badgColor: "bg-blue-500",
         technolg: [
             {
-                name: "Vue.js",
+                name: "Management app",
                 class: 'bg-blue-500/20 border-blue-400/30 text-blue-200'
             },
-            {
-                name: "PHP",
-                class: 'bg-blue-500/20 border-blue-400/30 text-cyan-200'
-            },
-            {
-                name: "SQL",
-                class: 'bg-blue-500/20 border-blue-400/30 text-blue-200'
-            },
+            //{
+            //    name: "PHP",
+            //    class: 'bg-blue-500/20 border-blue-400/30 text-cyan-200'
+            //},
+           // {
+            //    name: "SQL",
+             //   class: 'bg-blue-500/20 border-blue-400/30 text-blue-200'
+            //},
         ],       
         links: [
+            //{
+             //   name: "Live Demo", url: "#", icon: EyeIcon,
+              //  class: 'text-blue-400 hover:text-blue-300',
+            //},
+           // {
+            //    name: "Code", url: "#", icon: CodeBracketIcon,
+            //    class: 'text-bcyan-400 hover:text-cyan-300',
+            //},
             {
-                name: "Live Demo", url: "#", icon: EyeIcon,
-                class: 'text-blue-400 hover:text-blue-300',
-            },
-            {
-                name: "Code", url: "#", icon: CodeBracketIcon,
-                class: 'text-bcyan-400 hover:text-cyan-300',
-            },
+                name: "In progress", url: "#", icon: ClockIcon,
+                class: 'text-gray-400',
+            }
         ]
     },
     {
@@ -172,27 +176,31 @@ const projects = ref([
         badgColor: "bg-blue-500",
         technolg: [
             {
-                name: "Vue.js",
+                name: "Academy app",
                 class: 'bg-blue-500/20 border-blue-400/30 text-blue-200'
             },
-            {
-                name: "PHP",
-                class: 'bg-cyan-500/20 border-cyan-400/30 text-cyan-200'
-            },
-            {
-                name: "SQL",
-                class: 'bg-blue-500/20 border-blue-400/30 text-blue-200'
-            },
+            //{
+               // name: "PHP",
+               // class: 'bg-cyan-500/20 border-cyan-400/30 text-cyan-200'
+            //},
+            //{
+              //  name: "SQL",
+                //class: 'bg-blue-500/20 border-blue-400/30 text-blue-200'
+            //},
         ],       
         links: [
+            //{
+              //  name: "Live Demo", url: "#", icon: EyeIcon,
+                //class: 'text-blue-400 hover:text-blue-300',
+            //},
+            //{
+              //  name: "Code", url: "#", icon: CodeBracketIcon,
+                //class: 'text-bcyan-400 hover:text-cyan-300',
+            //},
             {
-                name: "Live Demo", url: "#", icon: EyeIcon,
-                class: 'text-blue-400 hover:text-blue-300',
-            },
-            {
-                name: "Code", url: "#", icon: CodeBracketIcon,
-                class: 'text-bcyan-400 hover:text-cyan-300',
-            },
+                name: "In progress", url: "#", icon: ClockIcon,
+                class: 'text-gray-400',
+            }
         ]
     },
     {

@@ -57,9 +57,16 @@
                     </div>
                     <p class="text-gray-300 pt-4 text-center lg:text-left text-lg leading-relaxed"
                     data-aos="fade-left" data-aos-delay="200">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi, reprehenderit?
-                        Libero molestiae incidunt ipsa nisi reprehenderit? Odio quis saepe dolores vero 
-                        nesciunt. Dolore atque quasi alias ea amet esse nulla?
+                        I'm a full-stack developer and IT professional passionate about building 
+                        web applications and IT infrastructure. As a third year 
+                        Computer Science student at Cooperative University of Kenya, I combine 
+                        academic knowledge with practical experience. I specialize in full-stack 
+                        web development, UI design, and Active Directory management. My professional 
+                        background includes IT support at the University of Nairobi 
+                        and network infrastructure experience with the County Government of Nyeri. 
+                        I'm committed to delivering high quality solutions through continuous learning 
+                        and attention to detail.
+
                     </p>
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-8" data-aos="fade-up"
                     data-aos-delay="300">
